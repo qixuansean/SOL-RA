@@ -1,0 +1,248 @@
+﻿[
+    {
+        "file":  "about-hero.webp",
+        "photo":  "1527631746610-bca00a040d60",
+        "w":  2000,
+        "h":  1400
+    },
+    {
+        "file":  "alps-1.webp",
+        "photo":  "1476514525535-07fb3b4ae5f1",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "alps-2.webp",
+        "photo":  "1470770841072-f978cf4d019e",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "alps-3.webp",
+        "photo":  "1506905925346-21bda4d32df4",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "amalfi-1.webp",
+        "photo":  "1533105079780-92b9be482077",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "amalfi-2.webp",
+        "photo":  "1501785888041-af3ef285b470",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "amalfi-3.webp",
+        "photo":  "1500375592092-40eb2168fd21",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "bali-1.webp",
+        "photo":  "1602002418082-a4443e081dd1",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "bali-2.webp",
+        "photo":  "1518495973542-4542c06a5843",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "bali-3.webp",
+        "photo":  "1441974231531-c6227db76b6e",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "dest-alps.webp",
+        "photo":  "1464822759023-fed622ff2c3b",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "dest-amalfi.webp",
+        "photo":  "1516483638261-f4dbaf036963",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "dest-bali.webp",
+        "photo":  "1520250497591-112f2f40a3f4",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "dest-kyoto.webp",
+        "photo":  "1493976040374-85c8e12f0c0e",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "dest-maldives.webp",
+        "photo":  "1514282401047-d79a71a590e8",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "dest-oceania.webp",
+        "photo":  "1539367628448-4bc5c9d171c8",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "dest-santorini.webp",
+        "photo":  "1533104816931-20fa691ff6ca",
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "file":  "experience-forest.webp",
+        "photo":  "1518495973542-4542c06a5843",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "experience-sail.webp",
+        "photo":  "1501785888041-af3ef285b470",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "experience-spa.webp",
+        "photo":  "1544161515-4ab6ce6db874",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "experience-table.webp",
+        "photo":  "1533105079780-92b9be482077",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "hero-maldives.webp",
+        "photo":  "1573843981267-be1999ff37cd",
+        "w":  2400,
+        "h":  1500
+    },
+    {
+        "file":  "journal-kyoto.webp",
+        "photo":  "1537996194471-e657df975ab4",
+        "w":  1400,
+        "h":  1000
+    },
+    {
+        "file":  "journal-light.webp",
+        "photo":  "1518495973542-4542c06a5843",
+        "w":  1400,
+        "h":  1000
+    },
+    {
+        "file":  "journal-road.webp",
+        "photo":  "1500530855697-b586d89ba3ee",
+        "w":  1400,
+        "h":  1000
+    },
+    {
+        "file":  "journal-sea.webp",
+        "photo":  "1507525428034-b723cf961d3e",
+        "w":  1400,
+        "h":  1000
+    },
+    {
+        "file":  "journal-slow.webp",
+        "photo":  "1441974231531-c6227db76b6e",
+        "w":  1400,
+        "h":  1000
+    },
+    {
+        "file":  "journal-villa.webp",
+        "photo":  "1613490493576-7fde63acd811",
+        "w":  1400,
+        "h":  1000
+    },
+    {
+        "file":  "kyoto-1.webp",
+        "photo":  "1537996194471-e657df975ab4",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "kyoto-2.webp",
+        "photo":  "1492571350019-22de08371fd3",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "kyoto-3.webp",
+        "photo":  "1528164344705-47542687000d",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "maldives-1.webp",
+        "photo":  "1540541338287-41700207dee6",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "maldives-2.webp",
+        "photo":  "1582719508461-905c673771fd",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "maldives-3.webp",
+        "photo":  "1571003123894-1f0594d2b5d9",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "oceania-1.webp",
+        "photo":  "1510414842594-a61c69b5ae57",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "oceania-2.webp",
+        "photo":  "1519046904884-53103b34b206",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "oceania-3.webp",
+        "photo":  "1506953823976-52e1fdc0149a",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "santorini-1.webp",
+        "photo":  "1505118380757-91f5f5632de0",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "santorini-2.webp",
+        "photo":  "1540206395-68808572332f",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "santorini-3.webp",
+        "photo":  "1473116763249-2faaef81ccda",
+        "w":  1400,
+        "h":  1050
+    },
+    {
+        "file":  "slow-travel.webp",
+        "photo":  "1439066615861-d1af74d74000",
+        "w":  1600,
+        "h":  2000
+    }
+]

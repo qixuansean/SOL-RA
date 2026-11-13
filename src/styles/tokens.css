@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/fonts/cormorant-300-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/cormorant-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/cormorant-500-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/fonts/cormorant-300-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/cormorant-400-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/fonts/manrope-300-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/manrope-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/manrope-500-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/manrope-600-normal.woff2') format('woff2');
+}
+
+:root {
+  --ivory: #f3eee4;
+  --paper: #faf7f0;
+  --sand: #dccdb5;
+  --sand-deep: #c8b493;
+  --ink: #16211e;
+  --ocean: #1e3d3c;
+  --ocean-deep: #142b2a;
+  --clay: #b2705a;
+  --clay-deep: #91513d;
+  --salt: #5f6d65;
+  --salt-deep: #4e5a53;
+  --mist: #b9c6be;
+  --cream-line: rgba(22, 33, 30, 0.13);
+
+  --font-display: 'Cormorant Garamond', 'Times New Roman', serif;
+  --font-text: 'Manrope', 'Helvetica Neue', Arial, sans-serif;
+
+  --step--2: 0.6875rem;
+  --step--1: 0.8125rem;
+  --step-0: 1rem;
+  --step-1: clamp(1.0625rem, 0.2vw + 1rem, 1.1875rem);
+  --step-2: clamp(1.25rem, 0.6vw + 1.05rem, 1.5rem);
+  --step-3: clamp(1.55rem, 1.1vw + 1.2rem, 2rem);
+  --step-4: clamp(2rem, 2.2vw + 1.3rem, 3rem);
+
+  --display: clamp(2.85rem, 7.1vw, 8.2rem);
+  --display-sm: clamp(2.4rem, 5.2vw, 5.2rem);
+  --h2: clamp(2.3rem, 4.4vw, 4.7rem);
+  --h3: clamp(1.55rem, 1.6vw + 1.1rem, 2.35rem);
+  --body: clamp(1rem, 0.15vw + 0.97rem, 1.0625rem);
+
+  --gutter: clamp(20px, 4.4vw, 72px);
+  --section: clamp(84px, 10vw, 176px);
+  --header-h: 82px;
+  --measure: 62ch;
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+}

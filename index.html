@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#F3EEE4" />
+    <meta
+      name="description"
+      content="SOLÉRA designs private journeys around the light — from the Maldives and the Amalfi Coast to Kyoto and the Swiss Alps. Where every moment feels like summer."
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preload" href="/fonts/cormorant-300-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/manrope-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <script>
+      // The hero photograph belongs to the homepage only. Injecting the
+      // preload here keeps other routes from paying for it, while still
+      // letting the browser pick a viewport-sized file.
+      if (location.pathname === '/' || location.pathname === '/index.html') {
+        var preload = document.createElement('link')
+        preload.rel = 'preload'
+        preload.as = 'image'
+        preload.href = '/images/hero-maldives-960.webp'
+        preload.setAttribute(
+          'imagesrcset',
+          '/images/hero-maldives-640.webp 640w, /images/hero-maldives-960.webp 960w, /images/hero-maldives-1400.webp 1400w, /images/hero-maldives-1800.webp 1800w, /images/hero-maldives.webp 2400w',
+        )
+        preload.setAttribute('imagesizes', '100vw')
+        preload.setAttribute('fetchpriority', 'high')
+        document.head.appendChild(preload)
+      }
+    </script>
+    <title>SOLÉRA — Where every moment feels like summer</title>
+    <meta property="og:title" content="SOLÉRA — Luxury travel, considered" />
+    <meta
+      property="og:description"
+      content="Private villas, quiet coasts and journeys shaped around the light."
+    />
+    <meta property="og:image" content="/images/hero-maldives.webp" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
